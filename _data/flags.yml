@@ -152,6 +152,8 @@
   name: Germany
 - code: de-by
   name: Bavaria
+- code: de-empire
+  name: German Empire  
 - code: dj
   name: Djibouti
 - code: dk
