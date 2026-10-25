@@ -148,6 +148,8 @@
   name: Czechia
 - code: de
   name: Germany
+- code: de-by
+  name: Bavaria
 - code: dj
   name: Djibouti
 - code: dk
