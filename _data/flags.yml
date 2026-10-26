@@ -130,12 +130,14 @@
   name: Xinjiang
 - code: co
   name: Colombia
-- code: crimea
-  name: Crimea
 - code: cq
   name: Sark
 - code: cr
   name: Costa Rica
+- code: crimea
+  name: Crimea
+- code: "cs"
+  name: Serbia and Montenegro
 - code: cu
   name: Cuba
 - code: cv
