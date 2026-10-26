@@ -792,6 +792,16 @@
   name: Mayotte
 - code: yu
   name: Yugoslavia
+- code: yu-ba
+  name: Yugoslav Bosnia
+- code: yu-hr
+  name: Yugoslav Croatia
+- code: yu-mk
+  name: Yugoslav Macedonia  
+- code: yu-rs-me
+  name: Yugoslav Serbia/Montenegro
+- code: yu-si
+  name: Yugoslav Slovenia 
 - code: za
   name: South Africa
 - code: zm
