@@ -76,6 +76,8 @@
   name: Bermuda
 - code: bn
   name: Brunei
+- code: bn-old
+  name: "Brunei (old)"  
 - code: bo
   name: Bolivia
 - code: bq-bo
@@ -546,6 +548,8 @@
   name: Occitania
 - code: om
   name: Oman
+- code: om-old
+  name: Oman (old)  
 - code: otomi
   name: Otomi
 - code: pa
@@ -650,6 +654,8 @@
   name: Senegal
 - code: so
   name: Somalia
+- code: sokoto
+  name: Sokoto 
 - code: somaliland
   name: Somaliland
 - code: south_ossetia
