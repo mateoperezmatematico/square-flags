@@ -154,7 +154,7 @@
   name: Bavaria
 - code: de-empire
   name: German Empire
-- code: de-nw
+- code: "de-nw"
   name: North Rhine-Westphalia
 - code: de-sx
   name: Saxony  
