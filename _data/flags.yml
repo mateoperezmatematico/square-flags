@@ -152,6 +152,8 @@
   name: Cyprus
 - code: cz
   name: Czechia
+- code: "darfur"
+  name: Darfur
 - code: de
   name: Germany
 - code: de-by
