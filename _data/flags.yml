@@ -98,6 +98,8 @@
   name: Botswana
 - code: by
   name: Belarus
+- code: by-historical
+  name: "Belarus (Historical)"  
 - code: bz
   name: Belize
 - code: ca
