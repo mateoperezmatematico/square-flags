@@ -504,6 +504,8 @@
   name: Martinique
 - code: mr
   name: Mauritania
+- code: "mr-new"
+  name: "Mauritania (New)"  
 - code: ms
   name: Montserrat
 - code: mt
