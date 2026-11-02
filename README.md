@@ -24,12 +24,12 @@ colour has been changed to Navy to more accurately reflect the original, and the
 position of the largest star has been moved to the left, closer to its true
 location.
 
-<img src="https://kapowaz.github.io/square-flags/images/au-comparison.svg" width="168" alt="A comparison of the circle-flags and square-flags equivalents for the flag of Australia" />
+<img src="https://mateoperezmatematico.github.io/square-flags/images/au-comparison.svg" width="168" alt="A comparison of the circle-flags and square-flags equivalents for the flag of Australia" />
 
 ## Usage
 
 ```text
-https://kapowaz.github.io/square-flags/flags/xx.svg
+https://mateoperezmatematico.github.io/square-flags/flags/xx.svg
 ```
 
 (Where `xx` is the [ISO 3166-1 alpha-2 code][iso-3166-1] of a country).
@@ -37,25 +37,25 @@ https://kapowaz.github.io/square-flags/flags/xx.svg
 For example, the following code:
 
 ```html
-<img src="https://kapowaz.github.io/square-flags/flags/br.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/cn.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/gb.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/id.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/in.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/ng.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/ru.svg" width="48" />
-<img src="https://kapowaz.github.io/square-flags/flags/us.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/br.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/cn.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/gb.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/id.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/in.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/ng.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/ru.svg" width="48" />
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/us.svg" width="48" />
 ```
 
 ...produces this:<br/><br/>
-<img src="https://kapowaz.github.io/square-flags/flags/br.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/cn.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/gb.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/id.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/in.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/ng.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/ru.svg" width="48">
-<img src="https://kapowaz.github.io/square-flags/flags/us.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/br.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/cn.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/gb.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/id.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/in.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/ng.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/ru.svg" width="48">
+<img src="https://mateoperezmatematico.github.io/square-flags/flags/us.svg" width="48">
 
 To view all the available flags, check [the gallery][gallery].
 
@@ -70,7 +70,7 @@ If you want to install this package as a dependency, you can add it to your
 project with:
 
 ```sh
-npm install --save @kapowaz/square-flags
+npm install --save @mateoperezmatematico/square-flags
 ```
 
 ### The color palette
@@ -169,7 +169,7 @@ This project is released under the [MIT license](LICENSE.md).
 [circle-flags]: https://github.com/HatScripts/circle-flags
 [circle-flags-issues]: https://github.com/HatScripts/circle-flags/issues?q=is%3Aissue+is%3Aopen+square
 [iso-3166-1]: https://www.iso.org/obp/ui/#search/code/
-[gallery]: https://kapowaz.github.io/square-flags/gallery
+[gallery]: https://mateoperezmatematico.github.io/square-flags/gallery
 [react]: https://reactjs.org
 [svgo]: https://github.com/svg/svgo
 [figma]: https://www.figma.com/community/file/1295802738363022628/square-flags
