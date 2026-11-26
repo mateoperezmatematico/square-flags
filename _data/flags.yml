@@ -728,6 +728,8 @@
   name: Taiwan
 - code: tz
   name: Tanzania
+- code: tz-zanzibar
+  name: Zanzibar 
 - code: ua
   name: Ukraine
 - code: ug
