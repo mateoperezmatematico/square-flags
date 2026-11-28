@@ -166,6 +166,8 @@
   name: German Empire
 - code: "de-nw"
   name: North Rhine-Westphalia
+- code: "de-reich"
+  name: German Reich  
 - code: de-sx
   name: Saxony  
 - code: dj
