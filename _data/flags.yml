@@ -24,6 +24,8 @@
   name: American Samoa
 - code: at
   name: Austria
+- code: at-empire
+  name: Austrian Empire
 - code: au
   name: Australia
 - code: au-aboriginal
@@ -54,6 +56,8 @@
   name: Azerbaijan
 - code: ba
   name: Bosnia and Herzegovina
+- code: ba-old
+  name: Bosnia and Herzegovina Condominum  
 - code: bb
   name: Barbados
 - code: bd
