@@ -156,6 +156,8 @@
   name: Czechia
 - code: "darfur"
   name: Darfur
+- code: ddr
+  name: East Germany
 - code: de
   name: Germany
 - code: de-by
